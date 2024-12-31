@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Yo soy Batman</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px; /* Márgenes más amplios alrededor del contenido */
+            background-color: #add8e6; /* Fondo azul claro */
+            display: flex; /* Usa flexbox para centrar contenido */
+            flex-direction: column; /* Ordena los elementos en columna */
+            justify-content: flex-start; /* Alinea los elementos hacia la parte superior */
+            align-items: center; /* Centra los elementos horizontalmente */
+            height: 100vh; /* Asegura que el cuerpo ocupe toda la altura de la pantalla */
+            background-color: #000000; /* Cambia el color de fondo */
+        }
+        h1 {
+            font-size: 2em; /* Tamaño del título */
+            color: #ffffff; /* Color negro para el título */
+            margin-bottom: 80px; /* Espacio inferior entre el título y el texto */
+            text-align: center;
+        }
+        p {
+            font-size: 1.2em; /* Tamaño del texto adicional */
+            color: #747474; /* Color gris oscuro para el texto */
+            margin: 0; /* Elimina márgenes predeterminados */
+            text-align: center; /* Centra el texto */
+        }
+    </style>
+</head>
+<body>
+    <h1>Solo las personas que no se han bañado puede leer esto</h1>
+    <p>Odiosa</p>
+</body>
+</html>
